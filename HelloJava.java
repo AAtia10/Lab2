@@ -1,5 +1,6 @@
-public class HelloITI {
-    public void printHelloITI() {
-        System.out.println("Hello ITI");
+
+public class HelloJava{
+    public void printHelloWorld() {
+        System.out.println("Hello World");
     }
 }
