@@ -1,6 +1,6 @@
 
 public class HelloJava{
-    public void printHelloWorld() {
-        System.out.println("Hello World");
+    public void printHelloJava() {
+        System.out.println("Hello Java");
     }
 }
