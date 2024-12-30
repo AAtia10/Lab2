@@ -1,7 +1,7 @@
 public class HelloITI {
 	// this func prints hello iti
     public void printHelloITI() {
-        System.out.println("Hello ITI");
+        System.out.println("Hello ITI ,Alex");
     }
 	// this func prints hello hello git
 
