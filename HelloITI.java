@@ -6,6 +6,6 @@ public class HelloITI {
 	// this func prints hello hello git
 
     public void printHelloGit() {
-        System.out.println("Hello Git");
+        System.out.println("Hello Git from iti");
     }
 }
